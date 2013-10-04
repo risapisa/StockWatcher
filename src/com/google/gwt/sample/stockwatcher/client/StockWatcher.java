@@ -101,9 +101,9 @@ public class StockWatcher implements EntryPoint {
 	
 	
 	private void risapisa(){
-		int risaAge = 50;
-		if(risaAge >= 50){
-			System.out.println("Risa is one old fool");
+		int risaAge = 23;
+		if(risaAge >= 30){
+			System.out.println("Risa is one old bat");
 		}
 	}
 	
