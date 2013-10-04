@@ -99,6 +99,15 @@ public class StockWatcher implements EntryPoint {
 		
 		}
 	
+	
+	private void risapisa(){
+		int risaAge = 50;
+		if(risaAge >= 50){
+			System.out.println("Risa is one old fool");
+		}
+	}
+	
+	
 	/**
 	 * Add Stock to FlexTable. Executed when the user clicks the addStockButton or
 	 * presses enter in the newSymbolTextBox.
